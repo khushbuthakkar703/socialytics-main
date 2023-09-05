@@ -1,0 +1,10 @@
+node_modules
+.next
+.open-next
+.sst
+.env*
+.DS_Store
+package-lock.json
+.idea
+/.idea
+
